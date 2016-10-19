@@ -1,0 +1,6 @@
+*.pyc
+.idea/.name
+.idea/aws-kafka.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
